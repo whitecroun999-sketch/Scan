@@ -154,7 +154,7 @@
 
   // Укажите URL развернутого Web App Google Apps Script
 
-  const API_URL = '<span type="placeholder" placeholder-type="file"></span>'; 
+  const API_URL = '<span type="[placeholder]https://script.google.com/macros/s/AKfycbwHzmL02GcA4phPy4PI7RyB1-1NbQR9jHwEmV2OVjQyPum9bvMk85bIQgeyNVitQ-JJ/exec" placeholder-type="file"></span>'; 
 
   let html5QrcodeScanner = null;
 
